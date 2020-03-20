@@ -10,3 +10,4 @@
 - (1 pcs) power cord
 - (1 pcs) lid switch
 - Mirrors to cover inside of the box
+- some hardware to mount things together
