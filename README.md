@@ -1,6 +1,6 @@
 # DisBox
 
-## Warning: Mains voltage
+## WARNING: Mains voltage
 > Mains voltage electricity is extremely dangerous. 
 > There is a significant risk of death through electrocution if mains voltage electricity is allowed to pass through the body.
 > There can also be a risk of fire and explosion if electricity is not cabled and fused correctly. 
