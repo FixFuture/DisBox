@@ -1,4 +1,4 @@
-# DisBox
+# DisBox - Ultraviolet germicidal irradiation disinfection box (UGIDBOX)
 
 ## WARNING: Mains voltage
 > Mains voltage electricity is extremely dangerous. 
